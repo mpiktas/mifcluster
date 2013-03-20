@@ -37,3 +37,6 @@ save(rr1,tm,file="res.RData")
 ##Very important to quit gracefully
 stopCluster(cl)
 mpi.quit()
+
+##See the calculation time on your computer
+##plot(tm)
