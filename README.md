@@ -17,7 +17,7 @@ Then do the magic required to connect to cluster
 
 Create your place on cluster
 
-    mkdir -p /scratch/luster/username
+    mkdir -p /scratch/lustre/username
     
 Set it to $HOME
 
