@@ -31,6 +31,7 @@ Create a directory for your R projects:
     mkdir R
 
 Get this code
+
     cd r
     git clone git@github.com:mpiktas/mifcluster.git
     cd mifcluster
