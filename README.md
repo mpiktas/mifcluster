@@ -40,7 +40,7 @@ Run the calculations
 
     sbatch mpi.sh
     
-Look out for files of type ```slurm-12043.out``` in your directory. They contain the status of your simulations. Check for error messages there
+Look out for files of type ```slurm-12043.out``` in your directory. They contain the status of your simulations. Check for error messages there.
   
 To navigate use ```cd```, to see content of the directory use ```ls```, for editing use ```nano``` or ```vim```.
 
