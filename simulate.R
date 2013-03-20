@@ -19,7 +19,7 @@ NULL
 HHH<-list(h01,h02,h03,h04,h05,h06)
 
 oneh<-function(hh) {
-    ii<-lapply(c(25,50,100,500,1000),function(n)testf(10,n,hh))
+    ii<-lapply(c(25,50,100,500,1000),function(n)testf(100,n,hh))
     ii
 }
 
